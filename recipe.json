@@ -1,0 +1,703 @@
+[
+    {
+        "Name": "Ramos Gin Fizz",
+        "Image": "https://dropinblog.net/34252347/files/featured/Ramos_Gin_Fizz_Elixir_Post__1_.png",
+        "Description": "Delivers a refreshing blend of floral and citrus flavors, making it a classic favorite from New Orleans.",
+        "Time": "4 Minutes",
+        "Ingredients": [
+            "2 oz Gin",
+            "1 oz fresh lemon juice",
+            "1 oz fresh lime juice",
+            "1 oz heavy cream",
+            "1.5 oz simple syrup",
+            "0.5 oz orange blossom water",
+            "1 egg white",
+            "Soda water (to top)"
+        ],
+        "Directions": [
+            "Add the gin, simple syrup, heavy cream, lemon and lime juices, orange blossom water and egg white into a shaker tin with ice.",
+            "Shake vigorously until well chilled.",
+            "Strain into another shaker tin and shake vigorously for at least 40 seconds.",
+            "Pour 2 ounces of Soda water into a collins glass, then strain mixture into the collons class.",
+            "Let cocktail rest in a freezer for about 1 minute.",
+            "Retrieve the glass and poke a hole through the center of the foam, gently pour remaining mixture through the hole until foam raises from glass.",
+            "Serve or drink immediately."
+        ]
+    },
+        {
+        "Name": "Mai Tai",
+        "Image": "https://davinehawaii.com/wp-content/uploads/2019/05/Passion-Fruit-Mai-Tai-Recipe-New.png",
+        "Description": "This refreshing drink balances fruity and nutty flavors, often garnished with mint and pineapple for a vibrant finish.",
+        "Time": "2 Minutes",
+        "Ingredients": [
+            "1.5 oz aged rum",
+            "0.5 oz fresh lime juice",
+            "0.5 oz orange liqueur",
+            "0.5 oz orgeat syrup",
+            "0.5 oz dark rum"
+        ],
+        "Directions": [
+            "Add aged rum, lime juice, orange liqueur, orgeat syrup into a shaker tin with ice",
+            "Shake vigorously for about 10 seconds.",
+            "Strain into a rocks glass with ice.",
+            "Float dark rum ontop of cocktail and garnish with a mint sprig.",
+            "Serve immediately or enjoy."
+        ]
+    },
+        {
+        "Name": "Flan",
+        "Image": "https://recipes.net/wp-content/uploads/2021/11/cake-flan-recipe.png",
+        "Description": "A delightful combination of sweet caramel and silky custard that melts in your mouth.",
+        "Time": "1.5 Hours",
+        "Ingredients": [
+            "1 cup white sugar",
+            "3 large eggs",
+            "14 oz sweetened condensed milk",
+            "12 oz evaporated milk",
+            "1 tablespoon vanilla extract"
+        ],
+        "Directions": [
+            "Preheat the oven to 350 degrees F.",
+            "Melt sugar in a medium saucepan over medium-low heat until liquefied and golden in color.",
+            "Carefully pour hot syrup into a deep 9-inch round glass baking dish.",
+            "In separate bowl, the eggs. Add condensed milk, evaporated milk, and vanilla; beat until smooth.",
+            "Pour egg mixture on top of caramel in the baking dish; place in a deep roasting pan.",
+            "Carefully pour enough hot water to come 1 inch up the sides of the dish.",
+            "Bake in the preheated oven until just set with a slight jiggle in the center, about 1 hour, checking after 55 minutes.",
+            "Keep in mind the flan will continue to set as it cools.",
+            "Remove from the oven and carefully transfer baking dish to a wire rack; cool to room temperature, then cover with plastic wrap to prevent a skin forming.",
+            "Refrigerate for 3 hours or up to 3 days."
+        ]
+    },
+        {
+        "Name": "Chicken Noodle Soup",
+        "Image": "https://www.bigbearswife.com/wp-content/uploads/2020/05/30-Minute-Pantry-Chicken-Noodle-Soup-3-735x1029.png",
+        "Description": "A comforting dish featuring tender chicken, hearty noodles, and vibrant vegetables simmered in a flavorful broth.",
+        "Time": "40 Minutes",
+        "Ingredients": [
+            "0.5 teaspoon butter",
+            "2 ribs celery, diced",
+            "3-4 large carrots, diced",
+            "1 clove garlic, minced",
+            "10 cups chicken broth or stock",
+            "1 teaspoon salt",
+            "0.5 teaspoon freshly ground pepper",
+            "0.1 teaspoon dried rosemary",
+            "0.1 dried sage",
+            "0.1 teaspoon crushed red pepper flakes",
+            "5 cups dry egg noodles",
+            "3 cups rotisserie chicken, shredded",
+            "1 teaspoon chicken bouillon"
+        ],
+        "Directions": [
+            "Add butter, diced celery and carrots to a large stock pot over medium-high heat.",
+            "Saute for 3 minutes. Add garlic and cook for another minutes.",
+            "Add chicken stock and season with rosemary, sage, crushed red pepper, salt, and pepper.",
+            "Bring broth to a boil. Add noodles and cook just until noodles are al dente.",
+            "Remove pot from heat as soon as they are just barely tender. Add chicken meat from the rotisserie chicken.",
+            "Taste the broth and add more seasonings, if needed.",
+            "Serve immediately and enjoy."
+        ]
+    },
+        {
+        "Name": "BLT Sandwich",
+        "Image": "https://www.farmboy.ca/wp-content/uploads/2024/08/classic-BLT-3-1.png",
+        "Description": "Balances savory, crunchy, and refreshing flavors, making it a satisfying and simple choice for lunch or a snack.",
+        "Time": "20 Minutes",
+        "Ingredients": [
+            "3 slices bacon",
+            "1 small tomato, sliced",
+            "Hearty white sandwich bread",
+            "2 tablespoons mayonnaise",
+            "1 romaine lettuce leaf",
+            "Kosher Salt",
+            "Freshly ground black pepper"
+        ],
+        "Directions": [
+            "Cook the bacon",
+            "Slice the tomato about half a centimeter thick and season with salt and pepper",
+            "Toast the bread until lightly brown.",
+            "Spread the mayonnaise on each slice of freshly toasted bread.",
+            "Place 1 romaine lettuce leaf on one slice of bread, folding is as needed to fit on the toast.",
+            "Top with seasoned tomato slices in a single layor, cutting them in half as needed to fit.",
+            "Add a the freshly cooked bacon ontop of the tomatos, followed by the other half of toast.",
+            "Slice into triangles and enjoy."
+        ]
+    },
+    {
+        "Name": "Classic Caesar Salad",
+        "Image": "https://s.wendyweekendgourmet.com/media/20240914084211/Classic-Caesar-Salad_done-500x500.png",
+        "Description": "A refreshing salad with crisp romaine, creamy dressing, and crunchy croutons, perfect as a side or main dish.",
+        "Time": "15 Minutes",
+        "Ingredients": [
+            "1 large romaine lettuce, chopped",
+            "1/4 cup Caesar dressing",
+            "1/4 cup grated Parmesan cheese",
+            "1 cup croutons",
+            "Freshly ground black pepper"
+        ],
+        "Directions": [
+            "In a large bowl, combine the chopped romaine lettuce and Caesar dressing.",
+            "Toss until the lettuce is well coated.",
+            "Add the croutons and Parmesan cheese, tossing gently.",
+            "Season with freshly ground black pepper and serve immediately."
+        ]
+    },
+    {
+        "Name": "Vegetable Stir-Fry",
+        "Image": "https://s.lightorangebean.com/media/20240914144639/Thai-Vegetable-Stir-Fry-with-Lime-and-Ginger_done-830x521.png",
+        "Description": "A colorful mix of fresh vegetables stir-fried in a savory sauce, quick to prepare and packed with flavor.",
+        "Time": "20 Minutes",
+        "Ingredients": [
+            "2 cups mixed vegetables (bell peppers, broccoli, carrots)",
+            "2 tablespoons soy sauce",
+            "1 tablespoon vegetable oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon ginger, minced",
+            "Cooked rice or noodles for serving"
+        ],
+        "Directions": [
+            "Heat the vegetable oil in a large skillet over medium heat.",
+            "Add the minced garlic and ginger, sautéing for 1 minute.",
+            "Add the mixed vegetables and stir-fry for 5-7 minutes until tender-crisp.",
+            "Stir in the soy sauce and cook for an additional 2 minutes.",
+            "Serve over cooked rice or noodles."
+        ]
+    },
+    {
+        "Name": "Spaghetti Aglio e Olio",
+        "Image": "https://www.sidechef.com/recipe/1caab209-0e0f-4472-8ee1-5bfac9aa8600.png",
+        "Description": "A simple yet flavorful pasta dish made with garlic, olive oil, and red pepper flakes, perfect for a quick dinner.",
+        "Time": "20 Minutes",
+        "Ingredients": [
+            "200g spaghetti",
+            "4 cloves garlic, thinly sliced",
+            "1/2 teaspoon red pepper flakes",
+            "1/4 cup olive oil",
+            "Salt and pepper to taste",
+            "Fresh parsley, chopped (for garnish)"
+        ],
+        "Directions": [
+            "Cook spaghetti according to package instructions until al dente.",
+            "In a large skillet, heat olive oil over medium heat and add the sliced garlic.",
+            "Sauté until the garlic is golden brown, then add red pepper flakes.",
+            "Drain the spaghetti and toss it in the skillet with the garlic oil.",
+            "Season with salt and pepper, and garnish with chopped parsley before serving."
+        ]
+    },
+    {
+        "Name": "Chicken Tacos",
+        "Image": "https://stayfitmom.com/wp-content/uploads/2015/01/chipotle-chicken-baked-tacos-fi-1200x800.png",
+        "Description": "Savory chicken seasoned with spices, topped with fresh veggies, and wrapped in warm tortillas for a quick and satisfying meal.",
+        "Time": "25 Minutes",
+        "Ingredients": [
+            "2 cups cooked chicken, shredded",
+            "1 tablespoon taco seasoning",
+            "8 small corn or flour tortillas",
+            "1 cup lettuce, shredded",
+            "1 cup tomatoes, diced",
+            "1/2 cup shredded cheese",
+            "Sour cream and salsa for serving"
+        ],
+        "Directions": [
+            "In a skillet, combine shredded chicken and taco seasoning; cook over medium heat until heated through.",
+            "Warm tortillas in a separate skillet or microwave.",
+            "Assemble tacos by placing chicken, lettuce, tomatoes, and cheese in each tortilla.",
+            "Top with sour cream and salsa, then serve immediately."
+        ]
+    },
+    {
+        "Name": "Caprese Salad",
+        "Image": "https://www.floridacountrymagazine.com/wp-content/uploads/2023/06/caprese-salad.png",
+        "Description": "A fresh and vibrant salad featuring ripe tomatoes, creamy mozzarella, and fragrant basil, drizzled with balsamic glaze.",
+        "Time": "10 Minutes",
+        "Ingredients": [
+            "2 large ripe tomatoes, sliced",
+            "200g fresh mozzarella, sliced",
+            "Fresh basil leaves",
+            "2 tablespoons balsamic glaze",
+            "Salt and pepper to taste"
+        ],
+        "Directions": [
+            "On a serving platter, alternate slices of tomato and mozzarella.",
+            "Tuck fresh basil leaves between the slices.",
+            "Drizzle with balsamic glaze and season with salt and pepper.",
+            "Serve immediately as a refreshing appetizer or side."
+        ]
+    },
+    {
+        "Name": "Beef Stir-Fry",
+        "Image": "https://thatovenfeelin.com/wp-content/uploads/2024/08/Mongolian-Beef-Stir-Fry-with-Ramen-1.png",
+        "Description": "Tender beef strips quickly stir-fried with colorful vegetables in a savory sauce, served over rice or noodles.",
+        "Time": "30 Minutes",
+        "Ingredients": [
+            "500g beef sirloin, thinly sliced",
+            "2 cups mixed bell peppers, sliced",
+            "1 cup broccoli florets",
+            "2 tablespoons soy sauce",
+            "1 tablespoon oyster sauce",
+            "1 tablespoon vegetable oil",
+            "Cooked rice or noodles for serving"
+        ],
+        "Directions": [
+            "Heat vegetable oil in a large skillet or wok over high heat.",
+            "Add sliced beef and cook until browned; remove and set aside.",
+            "In the same skillet, stir-fry bell peppers and broccoli for about 5 minutes.",
+            "Return the beef to the skillet, add soy sauce and oyster sauce, and stir to combine.",
+            "Serve over cooked rice or noodles."
+        ]
+    },
+    {
+        "Name": "Oven-Baked Salmon",
+        "Image": "https://da28rauy2a860.cloudfront.net/wellbeing/wp-content/uploads/2022/01/27125619/Oven-Baked-Salmon-with-Lemon-Capers-800x533.png",
+        "Description": "Delicious and flaky salmon fillets baked to perfection, seasoned with lemon and herbs for a healthy meal.",
+        "Time": "20 Minutes",
+        "Ingredients": [
+            "4 salmon fillets",
+            "2 tablespoons olive oil",
+            "1 lemon, sliced",
+            "1 teaspoon garlic powder",
+            "Salt and pepper to taste",
+            "Fresh parsley for garnish"
+        ],
+        "Directions": [
+            "Preheat oven to 200°C (400°F).",
+            "Place salmon fillets on a lined baking sheet.",
+            "Drizzle with olive oil, and season with garlic powder, salt, and pepper.",
+            "Top each fillet with lemon slices.",
+            "Bake for 12-15 minutes or until salmon flakes easily with a fork.",
+            "Garnish with fresh parsley before serving."
+        ]
+    },
+    {
+        "Name": "Mushroom Risotto",
+        "Image": "https://lifeatcloverhill.com/wp-content/uploads/2020/01/creamy-mushroom-risotto10-735x490.png",
+        "Description": "Creamy Arborio rice cooked slowly with mushrooms and broth, finished with Parmesan for a rich, comforting dish.",
+        "Time": "30 Minutes",
+        "Ingredients": [
+            "1 cup Arborio rice",
+            "4 cups vegetable or chicken broth",
+            "1 cup mushrooms, sliced",
+            "1 small onion, diced",
+            "2 cloves garlic, minced",
+            "1/2 cup white wine",
+            "1/2 cup grated Parmesan cheese",
+            "2 tablespoons olive oil",
+            "Salt and pepper to taste"
+        ],
+        "Directions": [
+            "In a saucepan, heat broth over low heat.",
+            "In a separate pan, heat olive oil and sauté onions and garlic until translucent.",
+            "Add mushrooms and cook until softened, then stir in Arborio rice and cook for 1-2 minutes.",
+            "Pour in white wine and stir until absorbed.",
+            "Gradually add warm broth, one ladle at a time, stirring frequently until absorbed before adding more.",
+            "After about 20 minutes, when rice is creamy and al dente, stir in Parmesan cheese and season with salt and pepper."
+        ]
+    },
+    {
+        "Name": "Vegetable Quiche",
+        "Image": "https://images.contentstack.io/v3/assets/blt9039451385f46c16/blt7d54180f023353b8/635fc302e03da06ba793258d/VEGETABLE-QUICHE-7319-2-880x400.png",
+        "Description": "A savory pie filled with eggs, cream, and seasonal vegetables, perfect for brunch or a light dinner.",
+        "Time": "45 Minutes",
+        "Ingredients": [
+            "1 pre-made pie crust",
+            "4 large eggs",
+            "1 cup heavy cream",
+            "1 cup mixed vegetables (spinach, bell peppers, onions)",
+            "1 cup shredded cheese (cheddar or Swiss)",
+            "Salt and pepper to taste"
+        ],
+        "Directions": [
+            "Preheat oven to 180°C (350°F).",
+            "In a bowl, whisk together eggs and cream; season with salt and pepper.",
+            "Spread mixed vegetables evenly over the pie crust.",
+            "Pour egg mixture over the vegetables and sprinkle with cheese.",
+            "Bake for 30-35 minutes or until the filling is set and golden on top.",
+            "Allow to cool slightly before slicing and serving."
+        ]
+    },
+    {
+        "Name": "Pancakes",
+        "Image": "https://www.californiastrawberries.com/wp-content/uploads/2021/11/heart-pancakes.png",
+        "Description": "Fluffy, light pancakes perfect for breakfast, served with syrup, fresh fruit, or whipped cream.",
+        "Time": "20 Minutes",
+        "Ingredients": [
+            "1 cup all-purpose flour",
+            "2 tablespoons sugar",
+            "1 tablespoon baking powder",
+            "1/2 teaspoon salt",
+            "1 cup milk",
+            "1 large egg",
+            "2 tablespoons melted butter",
+            "Butter or oil for cooking"
+        ],
+        "Directions": [
+            "In a bowl, mix flour, sugar, baking powder, and salt.",
+            "In another bowl, whisk together milk, egg, and melted butter.",
+            "Combine wet and dry ingredients until just mixed; do not overmix.",
+            "Heat a skillet over medium heat and grease with butter or oil.",
+            "Pour 1/4 cup of batter onto the skillet; cook until bubbles form, then flip and cook until golden brown.",
+            "Serve warm with your choice of toppings."
+        ]
+    },
+    {
+        "Name": "Chicken Curry",
+        "Image": "https://www.harighotra.co.uk/images/recipes/hero/capemalay_hero.png",
+        "Description": "A flavorful and aromatic dish made with tender chicken simmered in a spiced coconut milk sauce, served with rice.",
+        "Time": "40 Minutes",
+        "Ingredients": [
+            "500g chicken breast, cubed",
+            "1 onion, diced",
+            "2 cloves garlic, minced",
+            "1 tablespoon ginger, minced",
+            "2 tablespoons curry powder",
+            "400ml coconut milk",
+            "2 tablespoons vegetable oil",
+            "Salt and pepper to taste",
+            "Fresh cilantro for garnish",
+            "Cooked rice for serving"
+        ],
+        "Directions": [
+            "Heat oil in a large pan over medium heat; add onions, garlic, and ginger, and sauté until soft.",
+            "Stir in curry powder and cook for 1 minute until fragrant.",
+            "Add chicken and cook until browned; season with salt and pepper.",
+            "Pour in coconut milk and simmer for 20 minutes until chicken is cooked through.",
+            "Garnish with fresh cilantro and serve with rice."
+        ]
+    },
+    {
+        "Name": "Mojito",
+        "Image": "https://images.getrecipekit.com/20220810032221-whiskey-mojito.png?aspect_ratio=1:1&quality=90&",
+        "Description": "A refreshing cocktail with a perfect balance of mint, lime, and sweetness, topped with soda water.",
+        "Time": "10 Minutes",
+        "Ingredients": [
+            "10 fresh mint leaves",
+            "1/2 lime, cut into wedges",
+            "2 tablespoons sugar",
+            "1 cup ice cubes",
+            "1 1/2 ounces white rum",
+            "1/2 cup soda water"
+        ],
+        "Directions": [
+            "In a glass, muddle mint leaves and lime wedges with sugar to release the mint oils.",
+            "Fill the glass with ice cubes and pour the rum over the top.",
+            "Top with soda water and stir gently.",
+            "Garnish with additional mint leaves and a lime wedge."
+        ]
+    },
+    {
+        "Name": "Classic Margarita",
+        "Image": "https://pinchofyum.com/wp-content/uploads/Really-Good-Non-Alcoholic-Margarita-Square.png",
+        "Description": "A tangy and refreshing drink with a perfect blend of tequila, lime juice, and orange liqueur, served with a salted rim.",
+        "Time": "5 Minutes",
+        "Ingredients": [
+            "2 ounces tequila",
+            "1 ounce lime juice",
+            "1 ounce orange liqueur (such as Cointreau)",
+            "Salt for rimming the glass",
+            "Lime wedge for garnish"
+        ],
+        "Directions": [
+            "Rub the rim of a glass with a lime wedge and dip into salt to coat.",
+            "In a shaker, combine tequila, lime juice, and orange liqueur with ice.",
+            "Shake well and strain into the prepared glass over ice.",
+            "Garnish with a lime wedge."
+        ]
+    },
+    {
+        "Name": "Pina Colada",
+        "Image": "https://mycuratedtastes.com/wp-content/uploads/2023/02/pinacolada.png",
+        "Description": "A tropical blend of rum, coconut cream, and pineapple juice, served over ice for a taste of paradise.",
+        "Time": "5 Minutes",
+        "Ingredients": [
+            "2 ounces white rum",
+            "1 ounce coconut cream",
+            "1 ounce heavy cream",
+            "6 ounces fresh pineapple juice",
+            "1/2 cup crushed ice",
+            "Pineapple wedge for garnish"
+        ],
+        "Directions": [
+            "In a blender, combine rum, coconut cream, heavy cream, pineapple juice, and crushed ice.",
+            "Blend until smooth and creamy.",
+            "Pour into a chilled glass and garnish with a pineapple wedge."
+        ]
+    },
+    {
+        "Name": "Old Fashioned",
+        "Image": "https://cdn.shopify.com/s/files/1/0416/5599/2469/files/old-fashioned-classic-recipe.png?v=1659714695",
+        "Description": "A classic cocktail featuring whiskey, sugar, and bitters, garnished with an orange slice and cherry for a timeless drink.",
+        "Time": "5 Minutes",
+        "Ingredients": [
+            "2 ounces bourbon or rye whiskey",
+            "1 sugar cube",
+            "2 dashes Angostura bitters",
+            "Orange slice for garnish",
+            "Maraschino cherry for garnish"
+        ],
+        "Directions": [
+            "In a glass, muddle the sugar cube with bitters and a splash of water until dissolved.",
+            "Add whiskey and stir gently.",
+            "Fill the glass with ice and garnish with an orange slice and cherry."
+        ]
+    },
+    {
+        "Name": "Teriyaki Chicken",
+        "Image": "https://images.getrecipekit.com/20221130233618-how-to-make-triyaki-chicken-chinese-honey-glazed-chicken-tight-recipe.png?aspect_ratio=1:1&quality=90&",
+        "Description": "Grilled chicken glazed with a sweet and savory teriyaki sauce, served with rice and vegetables.",
+        "Time": "30 Minutes",
+        "Ingredients": [
+            "2 chicken breasts",
+            "1/4 cup soy sauce",
+            "1/4 cup mirin",
+            "2 tablespoons sugar",
+            "1 tablespoon sesame oil",
+            "1 teaspoon grated ginger",
+            "1 tablespoon sesame seeds",
+            "Green onions for garnish"
+        ],
+        "Directions": [
+            "In a bowl, mix soy sauce, mirin, sugar, sesame oil, and ginger to create the teriyaki sauce.",
+            "Marinate the chicken in half of the sauce for at least 15 minutes.",
+            "Grill the chicken over medium heat, basting with the remaining sauce, until cooked through.",
+            "Sprinkle with sesame seeds and green onions before serving."
+        ]
+    },
+    {
+        "Name": "Miso Soup",
+        "Image": "https://theherbeevore.com/wp-content/uploads/2021/12/wp-16397567525378870136040272653857-500x500.png",
+        "Description": "A comforting soup made with miso paste, tofu, and seaweed, perfect as a starter or light meal.",
+        "Time": "15 Minutes",
+        "Ingredients": [
+            "4 cups dashi broth",
+            "3 tablespoons miso paste",
+            "1/2 cup tofu, diced",
+            "1/4 cup wakame seaweed (rehydrated)",
+            "2 green onions, sliced"
+        ],
+        "Directions": [
+            "Heat dashi broth in a pot until simmering.",
+            "In a bowl, dissolve miso paste with a small amount of hot dashi, then add back to the pot.",
+            "Add tofu and wakame; cook for 2-3 minutes until warmed through.",
+            "Serve hot, garnished with green onions."
+        ]
+    },
+    {
+        "Name": "Onigiri (Rice Balls)",
+        "Image": "https://s.hungryghostfoodandtravel.com/media/20240912224017/onigiri-recipe_done.png",
+        "Description": "Japanese rice balls filled with savory ingredients, wrapped in seaweed, and perfect for a snack or lunch.",
+        "Time": "20 Minutes",
+        "Ingredients": [
+            "2 cups cooked Japanese rice",
+            "1/2 teaspoon salt",
+            "1/2 cup fillings (such as tuna, salmon, or pickled plum)",
+            "Nori (seaweed) sheets, cut into strips"
+        ],
+        "Directions": [
+            "In a bowl, mix cooked rice with salt.",
+            "Wet your hands and take a small portion of rice, flatten it in your palm, and place filling in the center.",
+            "Mold the rice around the filling to form a triangle.",
+            "Wrap with nori strips and serve."
+        ]
+    },
+    {
+        "Name": "Matcha Green Tea",
+        "Image": "https://primulaproducts.com/cdn/shop/articles/jackieo_Youve_been_drinking_matcha_green_tea_latte_for_a_few_w_f5899c8d-f20b-4331-b1a8-d1eb1736d367_1456x.png?v=1687789713",
+        "Description": "A traditional Japanese tea made from finely ground green tea leaves, known for its vibrant color and health benefits.",
+        "Time": "5 Minutes",
+        "Ingredients": [
+            "1 teaspoon matcha powder",
+            "2 ounces hot water (not boiling)",
+            "Sweetener (optional)"
+        ],
+        "Directions": [
+            "Sift matcha powder into a bowl to prevent clumps.",
+            "Add hot water and whisk vigorously in a zigzag motion until frothy.",
+            "Sweeten to taste, if desired, and serve immediately."
+        ]
+    },
+    {
+        "Name": "Sauerbraten",
+        "Image": "https://c.rewe-static.de/37833215/1/37833215.png?impolicy=rds&im=Resize,width=1480",
+        "Description": "A traditional pot roast, marinated in a mixture of vinegar, water, and spices, resulting in tender and flavorful beef.",
+        "Time": "2 hours (plus marinating time)",
+        "Ingredients": [
+            "2 pounds beef roast",
+            "1 cup red wine vinegar",
+            "1 cup water",
+            "1 onion, chopped",
+            "2 carrots, chopped",
+            "2 bay leaves",
+            "6 whole cloves",
+            "1 teaspoon black peppercorns",
+            "1 tablespoon sugar",
+            "Salt to taste"
+        ],
+        "Directions": [
+            "Combine vinegar, water, onion, carrots, bay leaves, cloves, peppercorns, sugar, and salt in a pot. Bring to a boil and cool.",
+            "Place the beef in a large bowl and pour the marinade over it. Cover and refrigerate for 2-3 days, turning occasionally.",
+            "Remove the beef, pat dry, and sear in a hot pan. Add the marinade and simmer for 2 hours until tender.",
+            "Slice and serve with gravy and potatoes."
+        ]
+    },
+    {
+        "Name": "Bratwurst",
+        "Image": "https://www.stoneridgemarket.com/cdn/shop/collections/fd075cf2c7abd5dc56b3361f4441a940_1200x1200.png?v=1699652024",
+        "Description": "Juicy and flavorful German sausages, typically grilled or pan-fried, served with mustard and bread.",
+        "Time": "25 Minutes",
+        "Ingredients": [
+            "1 pound bratwurst sausages",
+            "1 tablespoon oil",
+            "Buns for serving",
+            "Mustard for serving"
+        ],
+        "Directions": [
+            "Heat oil in a skillet over medium heat.",
+            "Add bratwurst and cook, turning occasionally, until browned and cooked through, about 15-20 minutes.",
+            "Serve in buns with mustard."
+        ]
+    },
+    {
+        "Name": "Kartoffelsalat (Potato Salad)",
+        "Image": "https://www.leckerschmecker.me/wp-content/uploads/sites/6/2024/08/kartoffelsalat-kichererbsen.png",
+        "Description": "A classic German potato salad made with a tangy vinaigrette and fresh herbs, perfect as a side dish.",
+        "Time": "30 Minutes",
+        "Ingredients": [
+            "2 pounds potatoes, boiled and diced",
+            "1/2 cup diced onion",
+            "1/4 cup white wine vinegar",
+            "1/4 cup vegetable oil",
+            "1 tablespoon Dijon mustard",
+            "Salt and pepper to taste",
+            "Chopped parsley for garnish"
+        ],
+        "Directions": [
+            "In a large bowl, combine diced potatoes and onion.",
+            "In a separate bowl, whisk together vinegar, oil, mustard, salt, and pepper.",
+            "Pour the dressing over the potatoes and mix gently.",
+            "Garnish with chopped parsley and serve."
+        ]
+    },
+    {
+        "Name": "Black Forest Cake",
+        "Image": "https://thefirstyearblog.com/wp-content/uploads/2023/08/Black-Forest-Cake-Square-2023.png",
+        "Description": "A decadent chocolate cake layered with cherries and whipped cream, hailing from the Black Forest region of Germany.",
+        "Time": "1 hour",
+        "Ingredients": [
+            "2 cups all-purpose flour",
+            "1 3/4 cups sugar",
+            "3/4 cup unsweetened cocoa powder",
+            "1 1/2 teaspoons baking powder",
+            "1 1/2 teaspoons baking soda",
+            "1 teaspoon salt",
+            "2 large eggs",
+            "1 cup milk",
+            "1/2 cup vegetable oil",
+            "2 teaspoons vanilla extract",
+            "1 cup boiling water",
+            "1 jar (24 ounces) Morello cherries, drained",
+            "2 cups heavy whipping cream",
+            "Chocolate shavings for garnish"
+        ],
+        "Directions": [
+            "Preheat oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
+            "In a large bowl, mix flour, sugar, cocoa, baking powder, baking soda, and salt. Add eggs, milk, oil, and vanilla; mix well.",
+            "Stir in boiling water until smooth. Pour into prepared pans.",
+            "Bake for 30-35 minutes until a toothpick comes out clean. Cool completely.",
+            "Layer the cakes with whipped cream and cherries. Frost the top and sides with remaining whipped cream and garnish with chocolate shavings."
+        ]
+    },
+    {
+        "Name": "Kebap (Kebab)",
+        "Image": "https://www.dasmutfak.com/upload/urun/temp/karisik-kebap-tepsisi-4-kisilik-resim-879882_w1200_h800.png",
+        "Description": "A flavorful dish featuring marinated meat, often grilled on skewers, served with rice and vegetables.",
+        "Time": "1 hour (plus marinating time)",
+        "Ingredients": [
+            "1 pound lamb or chicken, cubed",
+            "1/4 cup olive oil",
+            "2 tablespoons yogurt",
+            "2 tablespoons lemon juice",
+            "2 cloves garlic, minced",
+            "1 teaspoon paprika",
+            "1 teaspoon cumin",
+            "Salt and pepper to taste",
+            "Skewers (metal or soaked wooden)"
+        ],
+        "Directions": [
+            "In a bowl, combine olive oil, yogurt, lemon juice, garlic, paprika, cumin, salt, and pepper.",
+            "Add the meat to the marinade, cover, and refrigerate for at least 2 hours or overnight.",
+            "Thread the marinated meat onto skewers.",
+            "Grill over medium heat for about 10-15 minutes, turning occasionally, until cooked through."
+        ]
+    },
+    {
+        "Name": "Börek",
+        "Image": "https://quitegoodfood.co.nz/wp-content/uploads/2017/10/creamy-spinach-artichoke-borek-square.png",
+        "Description": "A savory pastry filled with cheese, spinach, or meat, wrapped in thin layers of dough and baked to golden perfection.",
+        "Time": "45 Minutes",
+        "Ingredients": [
+            "1 package phyllo dough",
+            "1 cup ricotta cheese",
+            "1 cup feta cheese, crumbled",
+            "1 cup spinach, chopped",
+            "1 egg",
+            "1/4 cup olive oil",
+            "Salt and pepper to taste",
+            "Sesame seeds for topping"
+        ],
+        "Directions": [
+            "Preheat oven to 375°F (190°C).",
+            "In a bowl, mix cheeses, spinach, egg, salt, and pepper.",
+            "Layer 3 sheets of phyllo dough, brushing each with olive oil.",
+            "Spread cheese mixture along one edge and roll up tightly. Place on a baking sheet.",
+            "Brush with olive oil, sprinkle with sesame seeds, and bake for 25-30 minutes until golden."
+        ]
+    },
+    {
+        "Name": "Lahmacun",
+        "Image": "https://static.wixstatic.com/media/fb6d7f_8a2ff16d772542eba20cfb8e5deb0f03~mv2.png/v1/fill/w_980,h_653,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/fb6d7f_8a2ff16d772542eba20cfb8e5deb0f03~mv2.png",
+        "Description": "A thin, crispy flatbread topped with a spicy mixture of ground meat and vegetables, often called 'Turkish pizza.'",
+        "Time": "1 hour",
+        "Ingredients": [
+            "1 pound ground lamb or beef",
+            "1 onion, finely chopped",
+            "2 tomatoes, chopped",
+            "2 cloves garlic, minced",
+            "1 tablespoon tomato paste",
+            "1 teaspoon paprika",
+            "1 teaspoon cumin",
+            "Salt and pepper to taste",
+            "Pizza dough or flatbread",
+            "Lemon wedges for serving"
+        ],
+        "Directions": [
+            "Preheat oven to 475°F (245°C).",
+            "In a pan, cook onion and garlic until soft. Add ground meat, tomatoes, tomato paste, spices, salt, and pepper; cook until browned.",
+            "Roll out pizza dough or flatbread, spread the meat mixture on top, and bake for 10-12 minutes.",
+            "Serve with lemon wedges."
+        ]
+    },
+    {
+        "Name": "Baklava",
+        "Image": "https://i0.wp.com/amiracookland.com/wp-content/uploads/2024/05/Screenshot_20240511_135816_Gallery-1.png?resize=768%2C1024&ssl=1",
+        "Description": "A rich, sweet pastry made of layers of phyllo dough filled with chopped nuts and sweetened with honey syrup.",
+        "Time": "1 hour (plus cooling time)",
+        "Ingredients": [
+            "1 package phyllo dough",
+            "2 cups walnuts or pistachios, finely chopped",
+            "1 cup butter, melted",
+            "1 teaspoon cinnamon",
+            "1 cup sugar",
+            "1 cup water",
+            "1/2 cup honey",
+            "1 teaspoon vanilla extract"
+        ],
+        "Directions": [
+            "Preheat oven to 350°F (175°C). Grease a baking dish.",
+            "In a bowl, mix nuts and cinnamon. Layer 10 sheets of phyllo dough, brushing each with melted butter.",
+            "Spread a layer of nut mixture, then repeat layers until all nuts are used. Top with remaining phyllo sheets.",
+            "Cut into diamond shapes and bake for 40-45 minutes until golden.",
+            "In a saucepan, combine sugar, water, honey, and vanilla; boil for 10 minutes. Pour over hot baklava and let cool."
+        ]
+    }
+]
